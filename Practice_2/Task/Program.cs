@@ -14,7 +14,7 @@ namespace Task_1
 
         public static void Empty()
         {
-            string[] emptyString = new string[0];
+            string[] emptyString;
         }
         public static void Task3()
         {
